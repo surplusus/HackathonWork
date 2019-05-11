@@ -1,5 +1,5 @@
 // Baekjoon / problem / 2579
-// 계단 오르기 (DP활용)
+// 계단 오르기 (재귀적 DP활용)
 
 #include <iostream>
 using namespace std;
