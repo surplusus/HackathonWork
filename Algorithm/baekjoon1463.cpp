@@ -13,31 +13,20 @@ int main()
 	int count = 0;
 	
 	dp[0] = 0;
-	dp[1] = 1;
+	dp[1] = 0;
 	dp[2] = 1;
 	dp[3] = 1;
 	dp[4] = 2;
 	dp[5] = 3;
 		
-	for (int i = 4; i <= N; i++)
+	for (int i = 6; i <= N; i++)
 	{
-		if (i % 3 == 0)
-		{
-			dp[i] = dp[i / 3] + 1;
-		}
-		else
-		{
-			if (i % 2 == 0)
-			{
-				int comp1 = dp[i / 2] + 1;
-				int comp2 = dp[i - 1] + 1;
-				(comp1 < comp2) ? (dp[i] = comp1) : dp[i] = comp2;
-			}
-			else
-			{
-				dp[i] = dp[i - 1] + 1;
-			}
-		}
+		int cmp1 = 99, cmp2 = 99, cmp3 = 99;
+		cmp1 = dp[i - 1] + 1;
+		if (i % 2 == 0)	cmp2 = dp[i / 2] + 1;
+		if (i % 3 == 0)	cmp3 = dp[i / 3] + 1;
+		(cmp1 < cmp2) ? cmp2 = cmp1 : cmp2 = cmp2;
+		(cmp2 < cmp3) ? (dp[i] = cmp2) : dp[i] = cmp3;
 	}
 
 	cout << dp[N];
