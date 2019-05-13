@@ -1,4 +1,0 @@
-﻿  소스.cpp
-  Algorithm.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
-LINK : warning LNK4067: 진입점이 모호합니다. 'mainCRTStartup'이(가) 선택됩니다.
-  Algorithm.vcxproj -> C:\Work\Debug\Algorithm.exe
