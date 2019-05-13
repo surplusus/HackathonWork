@@ -4,3 +4,4 @@
 
 *.opendb
 *.db
+*.lock
