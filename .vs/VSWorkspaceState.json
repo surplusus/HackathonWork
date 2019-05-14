@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Algorithm",
+    "\\Algorithm2",
+    "\\CppAlgorithm",
+    "\\DataStruct"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Algorithm2\\Algorithm2.csproj",
   "PreviewInSolutionExplorer": false
 }
