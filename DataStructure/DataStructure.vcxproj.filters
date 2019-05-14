@@ -55,6 +55,9 @@
     <ClCompile Include="AdvencedDLL.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SparceArray.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="app.ico">
