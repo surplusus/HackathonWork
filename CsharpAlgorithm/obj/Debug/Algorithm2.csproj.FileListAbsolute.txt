@@ -1,0 +1,2 @@
+C:\Work\HacktheCode\CsharpAlgorithm\obj\Debug\Algorithm2.csprojAssemblyReference.cache
+C:\Work\HacktheCode\CsharpAlgorithm\obj\Debug\Algorithm2.csproj.CoreCompileInputs.cache
