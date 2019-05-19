@@ -1,0 +1,7 @@
+D:\GameDev\CCppCsharp\AlgorithmSolution\CsharpAlgorithm\bin\Debug\Algorithm2.exe.config
+D:\GameDev\CCppCsharp\AlgorithmSolution\CsharpAlgorithm\bin\Debug\Algorithm2.exe
+D:\GameDev\CCppCsharp\AlgorithmSolution\CsharpAlgorithm\bin\Debug\Algorithm2.pdb
+D:\GameDev\CCppCsharp\AlgorithmSolution\CsharpAlgorithm\obj\Debug\CsharpAlgorithm.csprojAssemblyReference.cache
+D:\GameDev\CCppCsharp\AlgorithmSolution\CsharpAlgorithm\obj\Debug\CsharpAlgorithm.csproj.CoreCompileInputs.cache
+D:\GameDev\CCppCsharp\AlgorithmSolution\CsharpAlgorithm\obj\Debug\Algorithm2.exe
+D:\GameDev\CCppCsharp\AlgorithmSolution\CsharpAlgorithm\obj\Debug\Algorithm2.pdb
