@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Algorithm",
-    "\\Algorithm2",
-    "\\CppAlgorithm",
-    "\\DataStruct"
+    "\\AlgorithmSolve"
   ],
-  "SelectedNode": "\\Algorithm2\\Algorithm2.csproj",
+  "SelectedNode": "\\AlgorithmSolve\\소스.cpp",
   "PreviewInSolutionExplorer": false
 }

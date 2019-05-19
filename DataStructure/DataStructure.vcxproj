@@ -146,6 +146,10 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="AssemblyInfo.cpp" />
+    <ClCompile Include="Cpp기본.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="DBLinkedList.cpp" />
     <ClCompile Include="DBLinkedListMain.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>

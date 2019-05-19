@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataStructure", "DataStruct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpAlgorithm", "..\CsharpAlgorithm\CsharpAlgorithm.csproj", "{F8B6CC87-1952-4453-A0E1-1834BE0DA5D3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmSolve", "..\AlgorithmSolve\AlgorithmSolve.vcxproj", "{AD61DB1B-F653-40F7-8D51-078CE098F5D8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppWork", "..\CppWork\CppWork.vcxproj", "{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,16 +41,16 @@ Global
 		{F8B6CC87-1952-4453-A0E1-1834BE0DA5D3}.Release|x64.Build.0 = Release|Any CPU
 		{F8B6CC87-1952-4453-A0E1-1834BE0DA5D3}.Release|x86.ActiveCfg = Release|Any CPU
 		{F8B6CC87-1952-4453-A0E1-1834BE0DA5D3}.Release|x86.Build.0 = Release|Any CPU
-		{AD61DB1B-F653-40F7-8D51-078CE098F5D8}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{AD61DB1B-F653-40F7-8D51-078CE098F5D8}.Debug|x64.ActiveCfg = Debug|x64
-		{AD61DB1B-F653-40F7-8D51-078CE098F5D8}.Debug|x64.Build.0 = Debug|x64
-		{AD61DB1B-F653-40F7-8D51-078CE098F5D8}.Debug|x86.ActiveCfg = Debug|Win32
-		{AD61DB1B-F653-40F7-8D51-078CE098F5D8}.Debug|x86.Build.0 = Debug|Win32
-		{AD61DB1B-F653-40F7-8D51-078CE098F5D8}.Release|Any CPU.ActiveCfg = Release|Win32
-		{AD61DB1B-F653-40F7-8D51-078CE098F5D8}.Release|x64.ActiveCfg = Release|x64
-		{AD61DB1B-F653-40F7-8D51-078CE098F5D8}.Release|x64.Build.0 = Release|x64
-		{AD61DB1B-F653-40F7-8D51-078CE098F5D8}.Release|x86.ActiveCfg = Release|Win32
-		{AD61DB1B-F653-40F7-8D51-078CE098F5D8}.Release|x86.Build.0 = Release|Win32
+		{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}.Debug|x64.ActiveCfg = Debug|x64
+		{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}.Debug|x64.Build.0 = Debug|x64
+		{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}.Debug|x86.Build.0 = Debug|Win32
+		{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}.Release|Any CPU.ActiveCfg = Release|Win32
+		{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}.Release|x64.ActiveCfg = Release|x64
+		{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}.Release|x64.Build.0 = Release|x64
+		{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}.Release|x86.ActiveCfg = Release|Win32
+		{CB9F36FE-7846-47D5-B311-35D5D3C3D10C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
